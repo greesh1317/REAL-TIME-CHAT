@@ -65,6 +65,16 @@ cd ../client
 npm install
 
 
+##Running the application
+
+**Start the backend server**
+cd ../server
+npm start
+
+**In a new terminal, start the frontend React app**
+cd ../client
+npm start
+
 ##output
 
 
