@@ -1,5 +1,5 @@
 
-````markdown
+
 # Real-Time Chat Application
 
 **Company:** CODTECH IT SOLUTIONS  
@@ -94,16 +94,17 @@ npm run dev
 
 ## Screenshots
 
-*(Add your screenshots here by uploading them to your GitHub repo or using an image hosting service, then use markdown syntax like below)*
 
-```markdown
-![Login Screen](path/to/login-screen.png)
+
+<img width="824" alt="1" src="https://github.com/user-attachments/assets/839696ce-d622-4061-aa4f-6c57852275fa" />
 *User entering username and room*
 
-![Chat Room](path/to/chat-room.png)
+
+<img width="877" alt="2" src="https://github.com/user-attachments/assets/a2b23ef9-376f-431c-9e82-a18aa5432a11" />
 *Active chat room with messages*
 
-![Real-Time Messaging](path/to/real-time-messaging.png)
+
+<img width="704" alt="3" src="https://github.com/user-attachments/assets/8f724252-9a09-4371-8a7f-fe7933be0e5e" />
 *Instant message updates*
 ```
 
