@@ -25,15 +25,17 @@ This chat app demonstrates several important programming concepts and developmen
 * RESTful API design and route handling
 * Git and GitHub for version control and collaboration
 
-![Login Screen](path/to/login-screen.png)
+### Login Screen  
+![Login Screen](./screenshots/login.png)  
 *User entering username and room*
 
-![Chat Room](path/to/chat-room.png)
+### Chat Room  
+![Chat Room](./screenshots/chatroom.png)  
 *Active chat room with messages*
 
-![Real-Time Messaging](path/to/real-time-messaging.png)
+### Real-Time Messaging  
+![Real-Time Messaging](./screenshots/messaging.png)  
 *Instant message updates*
-
 
 
 
