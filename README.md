@@ -86,30 +86,25 @@ npm start
 npm run dev
 ```
 
----
 
 ## Screenshots
 
 
 
-
 <img width="405" alt="4" src="https://github.com/user-attachments/assets/d385cff4-8781-4f1d-9bcb-c6dd41243889" />
-
 
 *User entering username and room*
 
 
 <img width="877" alt="2" src="https://github.com/user-attachments/assets/a2b23ef9-376f-431c-9e82-a18aa5432a11" />
 
-
 *Active chat room with messages*
 
 
 <img width="704" alt="3" src="https://github.com/user-attachments/assets/8f724252-9a09-4371-8a7f-fe7933be0e5e" />
 
-
 *Instant message updates*
-```
+
 
 
 
