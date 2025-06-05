@@ -55,6 +55,6 @@ Overall, this project represents a comprehensive full-stack web application, com
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/real-time-chat-app.git
+git clone https://github.com/greesh1317/real-time-chat-app.git
 
 
