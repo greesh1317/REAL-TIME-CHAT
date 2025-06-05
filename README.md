@@ -54,18 +54,17 @@ This real-time chat application highlights critical concepts in modern web devel
 
 ## Installation and Setup
 
-```bash
-# Clone the repository
+**Clone the repository**
 git clone https://github.com/greesh1317/real-time-chat-app.git
 
-# Navigate into the project directory
+**Navigate into the project directory**
 cd real-time-chat-app
 
-# Install backend dependencies
+**Install backend dependencies**
 cd server
 npm install
 
-# Install frontend dependencies
+**Install frontend dependencies**
 cd ../client
 npm install
 
