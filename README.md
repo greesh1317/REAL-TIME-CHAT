@@ -52,7 +52,7 @@ This real-time chat application highlights critical concepts in modern web devel
 
 ## Installation and Setup
 
-bash
+
 # Clone the repository
 git clone https://github.com/greesh1317/real-time-chat-app.git
 
@@ -66,11 +66,11 @@ npm install
 # Install frontend dependencies
 cd ../client
 npm install
-````
+
 
 ### Running the application
 
-bash
+
 # Start the backend server
 cd ../server
 npm start
@@ -78,13 +78,12 @@ npm start
 # In a new terminal, start the frontend React app
 cd ../client
 npm start
-```
+
 
 > Alternatively, if you have a script to run both servers concurrently (from the root folder):
 
-```bash
+
 npm run dev
-```
 
 
 ## Screenshots
