@@ -58,12 +58,12 @@ Overall, this project represents a comprehensive full-stack web application, com
 git clone https://github.com/greesh1317/real-time-chat-app.git
 
 
-##output
+## output
 
-<img width="824" alt="Image" src="https://github.com/user-attachments/assets/14c146a4-c40d-44c7-bb42-2c391ae58407" />
+<img width="824" alt="1" src="https://github.com/user-attachments/assets/5458a626-4b5c-4e4e-9d52-ce626634f7ac" />
 
-<img width="877" alt="Image" src="https://github.com/user-attachments/assets/143c5902-d119-44a0-a2ed-871b81743203" />
+<img width="877" alt="2" src="https://github.com/user-attachments/assets/34dcbe52-3424-4875-a82c-516243ddb6db" />
 
-<img width="704" alt="Image" src="https://github.com/user-attachments/assets/6652f10a-e1b8-4462-b258-73eb315cd01c" />
 
+<img width="704" alt="3" src="https://github.com/user-attachments/assets/32909bb0-39d8-4f60-ad74-0e7531f4aca4" />
 
