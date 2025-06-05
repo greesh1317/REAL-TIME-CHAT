@@ -65,7 +65,7 @@ cd ../client
 npm install
 
 
-##Running the application
+## Running the application
 
 **Start the backend server**
 cd ../server
@@ -75,7 +75,7 @@ npm start
 cd ../client
 npm start
 
-##output
+## output
 
 
 <img width="405" alt="4" src="https://github.com/user-attachments/assets/058b4f2b-7f83-46b7-8ece-21c10896da09" />
