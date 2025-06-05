@@ -52,7 +52,7 @@ This real-time chat application highlights critical concepts in modern web devel
 
 ## Installation and Setup
 
-```bash
+bash
 # Clone the repository
 git clone https://github.com/greesh1317/real-time-chat-app.git
 
@@ -70,7 +70,7 @@ npm install
 
 ### Running the application
 
-```bash
+bash
 # Start the backend server
 cd ../server
 npm start
