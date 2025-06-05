@@ -1,0 +1,38 @@
+.textContainer {
+  display: flex;
+  flex-direction: column;
+  margin-left: 100px;
+  color: white;
+  height: 60%;
+  justify-content: space-between;
+}
+
+.activeContainer {
+  display: flex;
+  align-items: center;
+  margin-bottom: 50%; /* This is quite large — consider if you want this much spacing */
+  gap: 15px; /* adds consistent spacing between active users */
+}
+
+.activeItem {
+  display: flex;
+  align-items: center;
+  gap: 10px; /* space between icon and username */
+}
+
+.activeContainer img {
+  padding-left: 10px; /* you might want margin-right instead for spacing */
+  width: 20px;
+  height: 20px;
+}
+
+.textContainer h1 {
+  margin-bottom: 0px;
+}
+
+/* Responsive: hide on smaller screens */
+@media (min-width: 320px) and (max-width: 1200px) {
+  .textContainer {
+    display: none;
+  }
+}
