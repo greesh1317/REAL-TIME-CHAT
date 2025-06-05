@@ -7,7 +7,6 @@
 **Duration:** 4 weeks  
 **Mentor:** NEELA SANTHOSH  
 
----
 
 ## Project Description
 
@@ -31,7 +30,6 @@ This real-time chat application highlights critical concepts in modern web devel
 - Structuring modular, maintainable codebases  
 - Applying version control using Git and GitHub for collaborative workflows
 
----
 
 ## Features
 
@@ -41,7 +39,6 @@ This real-time chat application highlights critical concepts in modern web devel
 - Smooth auto-scrolling chat window  
 - User-friendly UI built with React.js  
 
----
 
 ## Technologies Used
 
@@ -50,7 +47,6 @@ This real-time chat application highlights critical concepts in modern web devel
 - **Database:** MongoDB (if used)  
 - **Others:** query-string, npm, nodemon, concurrently  
 
----
 
 ## Installation and Setup
 
@@ -67,6 +63,24 @@ npm install
 **Install frontend dependencies**
 cd ../client
 npm install
+
+
+##output
+
+
+<img width="405" alt="4" src="https://github.com/user-attachments/assets/058b4f2b-7f83-46b7-8ece-21c10896da09" />
+
+*User entering username and room*
+
+
+<img width="704" alt="3" src="https://github.com/user-attachments/assets/cf492613-dd78-46e9-8be1-56e914d8caf3" />
+
+*Active chat room with messages*
+
+
+<img width="877" alt="2" src="https://github.com/user-attachments/assets/e92b7f23-aee0-4d5e-b123-41c721f941f5" />
+
+*Instant message updates*
 
 
 
