@@ -9,13 +9,13 @@ const router = require('./router');
 const app = express();
 const server = http.createServer(app);
 
-// Set up CORS for both Express and Socket.IO
+
 app.use(cors());
 app.use(router);
 
 const io = socketio(server, {
   cors: {
-    origin: '*', // ⚠️ Replace with your frontend URL in production
+    origin: '*', 
     methods: ['GET', 'POST'],
   },
 });
@@ -59,7 +59,7 @@ io.on('connect', (socket) => {
       });
     }
 
-    callback?.(); // Safe optional callback
+    callback?.(); 
   });
 
   socket.on('disconnect', () => {
