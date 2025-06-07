@@ -34,6 +34,6 @@
 }
 
 .sent .messageText {
-  background: #4CAF50; /* Green bubble for own messages */
+  background: #4CAF50; 
   color: white;
 }
