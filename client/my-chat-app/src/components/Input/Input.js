@@ -6,7 +6,7 @@ const Input = ({ setMessage, sendMessage, message }) => (
   <form 
     className="form" 
     onSubmit={e => {
-      e.preventDefault();  // Prevent page reload on submit
+      e.preventDefault();  
       sendMessage(e);
     }}
   >
