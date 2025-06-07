@@ -13,7 +13,7 @@ const TextContainer = ({ users }) => (
               <img
                 alt="online icon"
                 className="onlineIcon"
-                src="/icons/onlineIcon.png" // Make sure this path is correct or import the icon
+                src="/icons/onlineIcon.png" 
               />
               <p>{name}</p>
             </div>
